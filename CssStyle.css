@@ -1,4 +1,4 @@
-div {
+/*div {
 	border: 1px solid red;
 	margin: 5px;
 }
@@ -15,9 +15,9 @@ h1 {
 	visibility: hidden;
 }*/
 
-* {
+/** {
 	visibility: hidden;
 }
 img {
 	visibility: visible
-}
+}*/
