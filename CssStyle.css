@@ -1,3 +1,7 @@
+#first > p {
+	size: 1.5em;
+}
+
 /*div {
 	border: 1px solid red;
 	margin: 5px;
@@ -11,13 +15,22 @@ h1 {
 	visibility: hidden;
 }
 
-/*.second {
+second {
 	visibility: hidden;
-}*/
+}
 
-/** {
+* {
 	visibility: hidden;
 }
 img {
-	visibility: visible
-}*/
+	visibility: visible;
+}
+h1 {
+	visibility: visible;
+}
+div > p {
+	visibility: visible;
+}
+second {
+	visibility: visible;
+}
